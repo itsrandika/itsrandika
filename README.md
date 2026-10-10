@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Randika Karanayaka</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhrk2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img alt="Profile followers" src="https://img.shields.io/github/followers/mdhrk2001">
+  <img src="https://komarev.com/ghpvc/?username=itsrandika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/itsrandika">
 </p>
 <h3 align="center">A Tech enthusiast from Sri Lanka</h3>
 <p align="center">I am a 4<sup>th</sup> year Software Engineering undergraduate with expertise in full-stack development, problem-solving, and UI/UX design. Passionate about building scalable, responsive, high-performance web applications using modern technologies. Proficient in MERN stack, Next.js (TypeScript) & Tailwind CSS. Currently focusing on mastering machine learning with Python. 🛠️</p>
@@ -31,7 +31,7 @@
 
 - 🔭 I’m an undergraduate for a **BSc (Hons) in Software Engineering**
 - 🌱 I’m currently learning **ML with Python**
-- 👨‍💻 All of my projects are available at my [Portfolio](https://mdhrk2001-portfolio.vercel.app) website.
+- 👨‍💻 All of my projects are available at my [Portfolio](https://itsrandika-portfolio.vercel.app) website.
 - 💬 Ask me about **MERN** stack & **Next.js**
 - 📫 How to reach me **randikaheshan183@gmail.com**
 - ⚡ Fun fact **I think I'm funny**
@@ -46,7 +46,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mdhrk2001/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/itsrandika/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://wa.me/+94701048274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="mailto:randikaheshan183@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
 </p>
@@ -112,7 +112,7 @@
 <h3 align="left">My Github Trophies:</h3>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhrk2001&layout=compact&theme=algolia" alt="Randika | Github Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrandika&layout=compact&theme=algolia" alt="Randika | Github Trophies" />
  </a>
 </p>
 <br>
@@ -126,17 +126,17 @@
 <h3 align="left">My GitHub Stats:</h3>
 <div align="center">
 
-<!-- [![Randika | Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrk2001&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Randika | Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrandika&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Randika | Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdhrk2001&layout=compact&langs_count=8&theme=algolia)
+![Randika | Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsrandika&layout=compact&langs_count=8&theme=algolia)
 
-<!-- [![Randika | GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhrk2001&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs,issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Randika | GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrandika&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs,issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Randika | GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mdhrk2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Randika | GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=itsrandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-[![Randika | GitHub Streak](https://streak-stats.demolab.com/?user=mdhrk2001&theme=algolia&background=0d1117&hide_border=true)](https://git.io/streak-stats)
+[![Randika | GitHub Streak](https://streak-stats.demolab.com/?user=itsrandika&theme=algolia&background=0d1117&hide_border=true)](https://git.io/streak-stats)
 
-[![Randika | GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhrk2001&theme=radical&hide_border=true)](https://github.com/mdhrk2001/mdhrk2001)
+[![Randika | GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrandika&theme=radical&hide_border=true)](https://github.com/itsrandika/itsrandika)
 
 </div>
 <br>
@@ -150,31 +150,31 @@
 <h3 align="left">My GitHub Repos:</h3>
 <div align="center">
 
-<a href="https://github.com/mdhrk2001/my-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/mdhrk2001/online-shopping-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=online-shopping-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/online-shopping-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=online-shopping-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/mdhrk2001/Volunteer-Web-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Volunteer-Web-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/Volunteer-Web-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=Volunteer-Web-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/mdhrk2001/Pet_Care_Center-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Pet_Care_Center-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/Pet_Care_Center-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=Pet_Care_Center-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/mdhrk2001/Final-Project-Coursera-HTML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Final-Project-Coursera-HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/Final-Project-Coursera-HTML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=Final-Project-Coursera-HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-<a href="https://github.com/mdhrk2001/Final-Project-Coursera-CSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Final-Project-Coursera-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/Final-Project-Coursera-CSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=Final-Project-Coursera-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/mdhrk2001/hotel-booking-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=hotel-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/itsrandika/hotel-booking-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsrandika&repo=hotel-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 </div>
@@ -187,7 +187,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdhrk2001&custom_title=Randika's%20Contribution%20Graph&bg_color=0D1117&title_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsrandika&custom_title=Randika's%20Contribution%20Graph&bg_color=0D1117&title_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -208,5 +208,5 @@
 ------
 
 <div align="center">
-  &copy; 2025 mdhrk2001. All rights reserved.
+  &copy; 2025 itsrandika. All rights reserved.
 </div>
